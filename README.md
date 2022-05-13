@@ -17,9 +17,9 @@ Full stack student, still starting in the area. My skills include Networks and T
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://www.facebook.com/ryan.oliveiram2016" target="_blank" alt="Facebook">
+  <a href="https://www.facebook.com/ryan.oliveiram2016" target="_blank"> alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
-  <a href="https://www.instagram.com/ryan_menezes0601/?fbclid=IwAR08S6enon_N5fNJ43cbkK_GmUbvWNt9Ctue9ZqZQvktG9vHZDmBkRLzmZ8" target="_blank" alt="Instagram">
+  <a href="https://www.instagram.com/ryan_menezes0601/?fbclid=IwAR08S6enon_N5fNJ43cbkK_GmUbvWNt9Ctue9ZqZQvktG9vHZDmBkRLzmZ8" target="_blank"> alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
