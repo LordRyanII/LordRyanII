@@ -7,7 +7,7 @@ Full stack student, still starting in the area. My skills include Networks and T
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-   ☢<strong>Skills</strong>: HTML5, CSS3, JAVA SCRIPT (FUTURE) AND...
+   ☢<strong>Skills</strong>: HTML5, CSS3, JAVASCRIPT AND...
 </p>
 
 </p>
