@@ -1,13 +1,13 @@
  Hello word
 
-Full stack student, still starting in the area. My skills include Networks and T.i. and I've been getting really deep into web design. In addition to **html5, css3 and javascript** languages. Also starting programming logic.
+Programming student, looking to become a full stack programmer. My skills include networking, IT support, and front-end programming (for now).
 
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-   ☢<strong>Skills</strong>: HTML5, CSS3, JAVASCRIPT AND...
+   ☢<strong>Skills</strong>: HTML5, CSS3, JAVASCRIPT, NODE.JS, BOOTSTRAP AND...
 </p>
 
 </p>
