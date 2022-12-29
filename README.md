@@ -1,4 +1,4 @@
- Hello word
+ Hello world
 
 Programming student, looking to become a full stack programmer. My skills include networking, IT support, and front-end programming (for now).
 
