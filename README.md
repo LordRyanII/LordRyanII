@@ -14,7 +14,7 @@ Programming student, looking to become a full stack programmer. My skills includ
 <P> Follow me on social media for ideas and project contributions. ;)⤵↘
 
 <p align="left">
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/ryan-menezes2021/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://www.facebook.com/ryan.oliveiram2016"  alt="Facebook" target="_blank">
