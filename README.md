@@ -8,7 +8,7 @@ Programming student, looking to become a full stack programmer. My skills includ
 
 
    ☢<strong>Skills</strong>: HTML5, CSS3, BOOTSTRAP 5, JAVASCRIPT, NODE.JS, AND... <br>
-   💼<strong>Tools</strong>: Visual Studio Code, photoshop, gimp, HandBrake, Postman...
+   💼<strong>Tools</strong>: Visual Studio Code, Postman, photoshop, gimp, HandBrake, Notion, Git and GitHub.
 
 <P> Follow me on social media for ideas and project contributions. ;)⤵↘
 
