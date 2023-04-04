@@ -9,9 +9,10 @@ Programming student, looking to become a fullStack programmer. My skills include
 
    ☢<strong>Skills</strong>: HTML5, CSS3, BOOTSTRAP 5, JAVASCRIPT, NODE.JS, AND... <br>
    <br>
-   🧰<strong>Tools</strong>: Visual Studio Code, Postman, photoshop, gimp, HandBrake, Notion, Git and GitHub.
+   🧰<strong>Tools</strong>: Visual Studio Code, Postman, Photoshop, Gimp, HandBrake, Notion, Git and GitHub.
 
-<P> Follow me on social media for ideas and project contributions. ;)⤵↘
+<P> Follow me on social media for ideas and project contributions. ;)
+ ⤵↘
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ryan-menezes2021/" alt="Linkedin" target="_blank" abbr="My linkedIn">
