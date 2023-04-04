@@ -1,6 +1,6 @@
  Hello world
 
-Programming student, looking to become a full stack programmer. My skills include networking, IT support, and front-end programming (for now).
+Programming student, looking to become a fullStack programmer. My skills include networking, IT support, and front-end programming (for now).
 
 
 
