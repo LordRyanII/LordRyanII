@@ -11,7 +11,7 @@ Programming student, looking to become a fullStack programmer. My skills include
    <br>
    🧰<strong>Tools</strong>: Visual Studio Code, Postman, Photoshop, Gimp, HandBrake, Notion, Git and GitHub.
 
- <p> Follow me on social media for ideas and project contributions. ;) 
+ <p> Follow me on social media for ideas and project contributions. ;
  ⤵↘
  </p>
 
