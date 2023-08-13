@@ -7,7 +7,7 @@ Programming student, looking to become a fullStack programmer. My skills include
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-   ☢<strong>Skills</strong>: HTML5, CSS3, BOOTSTRAP 5, JAVASCRIPT, NODE.JS, AND... <br>
+   ☢<strong>Skills</strong>: HTML5, CSS3, BOOTSTRAP 5, REACT.JS ,JAVASCRIPT, NODE.JS, SQL, NOSQL, AND... <br>
    <br>
    🧰<strong>Tools</strong>: Visual Studio Code, Postman, Photoshop, Gimp, HandBrake, Notion, Git and GitHub.
 
