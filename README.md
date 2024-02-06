@@ -1,13 +1,13 @@
  Hello world
 
-Programming student, looking to become a fullStack programmer. My skills include networking, IT support, and front-end programming (for now).
+Full stack developer in programming, Systems Analyst, information security student and general IT support..
 
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-   ☢<strong>Skills</strong>: HTML5, CSS3, BOOTSTRAP 5, REACT.JS, VITE, TYPESCRIPT, NODE.JS, EXPRESS, JAVA, SQL, NOSQL, AND... <br>
+   ☢<strong>Hard Skills</strong>: HTML5, CSS3, BOOTSTRAP 5, REACT.JS, VITE, TYPESCRIPT, NODE.JS, EXPRESS, JAVA, SQL, NOSQL, Kali linux, AND... <br>
    <br>
    🧰<strong>Tools</strong>: Visual Studio Code, Postman, Photoshop, Gimp, HandBrake, Notion, JDK, Git and GitHub.
 
