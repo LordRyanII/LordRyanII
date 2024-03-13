@@ -7,9 +7,9 @@ Full stack developer in programming, Systems Analyst, information security stude
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-   ☢<strong>Hard Skills</strong>: HTML5, CSS3, BOOTSTRAP 5, REACT.JS, VITE, TYPESCRIPT, NODE.JS, EXPRESS, JAVA, SQL, NOSQL, KALI AND LINUX, AND... <br>
+   ☢<strong>Hard Skills</strong>: HTML5, CSS3, BOOTSTRAP 5, REACT.JS, VITE, TYPESCRIPT, NODE.JS, EXPRESS, JAVA, KOTLIN, SQL, NOSQL, KALI AND LINUX, AND... <br>
    <br>
-   🧰<strong>Tools</strong>: Visual Studio Code, Postman, Photoshop, Gimp, HandBrake, Notion, JDK, Git and GitHub.
+   🧰<strong>Tools</strong>: Visual Studio Code, Android studio, Postman, Photoshop, Gimp, HandBrake, Notion, JDK, Git and GitHub.
 
  <p> Follow me on social media for ideas and project contributions. ;)
  ⤵↘
